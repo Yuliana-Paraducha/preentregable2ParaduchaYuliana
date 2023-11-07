@@ -1,0 +1,61 @@
+.carousel-inner {
+    max-height: 750px; /* Ajusta la altura según tus preferencias */
+    width: auto;
+  }
+  .body3 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  
+  /* Estilo de fondo rosa satinado */
+.navbar-pink {
+    background-color: #ffc1d3; /* Cambia este color según tu preferencia */
+  }
+  
+  /* Estilo de texto dorado */
+  .text-gold {
+    color: #91724d; /* Dorado */
+  }
+
+
+/* Estilo para quitar el subrayado de los enlaces en el footer */
+footer a {
+  text-decoration: none;
+}
+hr { border: none; height: 5px; /* Set the hr color */ color: #333; /* old IE */ background-color: #333; /* Modern Browsers */ }
+
+.pink {
+  background-color: #ffc1d3; /* Cambia este color según tu preferencia */
+}
+/* Agrega estilos personalizados aquí */
+.section {
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+}
+
+.section h2 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.section p {
+  font-size: 1rem;
+  color: #666;
+}
+a {
+  text-decoration: none;
+}
+
+
+
+
+    
+  
+
+
+ 
+  
